@@ -1,0 +1,136 @@
+
+/*	Style Sheet Information
+ *	Title: SezerPince.com Screen Styles
+ *	Project: sezerpince_static
+ *	Created: February 14, 2008
+ */
+
+/* @group Global */
+
+body {
+    font: 12px "Lucida Grande", Helvetica, Arial, sans-serif;
+    color: #333;
+    background: #f8f8f8 url("../images/bg-page.png") top left repeat-x;
+}
+
+/* @end */
+
+
+/* @group Headers */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+}
+
+h1 {
+    font: 32px Georgia, "Century Schoolbook", Times, serif;
+    color: #333;
+    border-bottom: 4px solid #999;
+    padding: 0px 0px 5px 0px;
+    margin: 0px 0px 5px 0px;
+}
+
+h3 {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: 0px 0px 40px 0px;
+    padding: 0px 0px 0px 2px;
+}
+
+/* @end */
+
+
+/* @group Text */
+
+p {
+	line-height: 22px;
+	margin: 0px 0px 20px 0px;
+}
+
+blockquote {
+	
+}
+
+q {
+	
+}
+
+pre {
+	
+}
+
+code {
+	
+}
+
+hr {
+	
+}
+
+/* @end */
+
+
+/* @group Links */
+
+a,
+a:link,
+a:active,
+a:visited {
+	
+}
+
+a:hover {
+	
+}
+
+/* @end */
+
+
+/* @group Lists */
+
+ul {
+
+}
+
+li {
+	
+}
+
+ol {
+	
+}
+
+/* @end */
+
+
+/* @group Forms */
+
+form {
+	
+}
+
+label {
+	
+}
+
+input,
+select,
+textarea {
+	
+}
+
+/* @end */
+
+
+/* @group Splash */
+
+#Container {
+    width: 250px;
+    margin: 100px auto 0px auto;
+}
+
+/* @end */
